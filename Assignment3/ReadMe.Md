@@ -15,3 +15,4 @@ Problem Statement: Write a Python program that:
 o   Square root of the number
 o   Natural logarithm (log base e) of the number
 o   Sine of the number (in radians)
+
